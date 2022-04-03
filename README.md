@@ -6,3 +6,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 # Vue-Task-Tracker
+
+https://elaborate-semifreddo-c2151e.netlify.app/
+
+![Alt Text](https://s7.gifyu.com/images/ezgif.com-gif-maker-1549718450e665f2d.gif)
